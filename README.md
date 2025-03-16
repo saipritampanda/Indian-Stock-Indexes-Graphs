@@ -33,4 +33,12 @@ To run in Colab:
 - `yfinance` - Fetches stock market data.  
 - `pandas` - Handles data processing.  
 - `numpy` - Performs numerical computations.  
-- `seaborn` & `matplotlib` - Used for data visualization.  
+- `seaborn` & `matplotlib` - Used for data visualization.
+
+## HeatMaps Screenshots
+
+| NIFTY 50 HeatMap (2010 - 2025) |
+|--------------------------------|
+| <img src="HeatMaps Screenshots/NIFTY 50 HeatMap (2010 - 2025).png" alt="Logo" width="800"> |
+
+
